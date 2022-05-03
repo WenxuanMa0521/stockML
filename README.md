@@ -13,3 +13,8 @@ This is the final project for 2021-2022 spring term Applied Statistics course. T
   * `new_tree.py`:  will be uploaded later
   * `plot_results.py`: draw the comparison of rmse among all the methods
 * `results`: include the results from 2016 to 2020
+
+## Implementation
+
+* python exper.py
+* If you want to compare other methods, you can add corresponding codes in `prediction.py`.
