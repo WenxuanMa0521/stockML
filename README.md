@@ -16,5 +16,5 @@ This is the final project for 2021-2022 spring term Applied Statistics course. T
 
 ## Implementation
 
-* python exper.py
+* python `exper.py`
 * If you want to compare other methods, you can add corresponding codes in `prediction.py`.
