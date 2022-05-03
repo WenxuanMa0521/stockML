@@ -4,3 +4,11 @@ This is the final project for 2021-2022 spring term Applied Statistics course. T
 
 ## Introduction
 
+* `final report` and `final presentation`: include details of this project
+* `codes`: include implementation of this project
+  * `train_nn.py`: define the neural network structure and train the nn model
+  * `prediction.py`: include all methods we need to compare
+  * `exper.py`: use the certain data to conduct the prediction task
+  * `new_tree.py`:  will be uploaded later
+  * `plot_results.py`: draw the comparison of rmse among all the methods
+* `results`: include the results from 2016 to 2020
