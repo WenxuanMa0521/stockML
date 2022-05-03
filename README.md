@@ -5,6 +5,7 @@ This is the final project for 2021-2022 spring term Applied Statistics course. T
 ## Introduction
 
 * `final report` and `final presentation`: include details of this project
+* `data`: due to the limitation of data volume, the uploaded data only contains the information of December 2020 for browsing 
 * `codes`: include implementation of this project
   * `train_nn.py`: define the neural network structure and train the nn model
   * `prediction.py`: include all methods we need to compare
